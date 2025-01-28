@@ -1,0 +1,49 @@
+{
+  "name": "is-string-checker",
+  "description": "A utility to check if a value is a string.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/angelabenavente/is-string-checker",
+  "author": "Ángela Benavente (https://github.com/angelabenavente)",
+  "repository": "angelabenavente/is-string-checker",
+  "bugs": {
+    "url": "https://github.com/angelabenavente/is-string-checker/issues"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "clean": "rm -rf dist",
+    "eslint": "npx eslint --ext .js .",
+    "test": "jest",
+    "build": "npm run clean && npx tsup"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    },
+    "./*": {
+      "import": "./dist/*.mjs",
+      "require": "./dist/*.js"
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "eslint": "^9.19.0",
+    "jest": "^29.0.0",
+    "prettier": "^3.4.2",
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "string",
+    "type-checking",
+    "validation",
+    "javascript",
+    "utility"
+  ]
+}
