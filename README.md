@@ -1,14 +1,11 @@
-# is-string-checker
-
-> A lightweight utility to check if a given value is a string.
-
-[![NPM version](https://img.shields.io/npm/v/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](<[LICENSE](https://github.com/angelabenavente/is-string-checker/LICENSE)>)
+# is-string-checker [![NPM version](https://img.shields.io/npm/v/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](<[LICENSE](https://github.com/angelabenavente/is-string-checker/LICENSE)>)
 
 <!-- [![NPM monthly downloads](https://img.shields.io/npm/dm/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker)
 [![NPM total downloads](https://img.shields.io/npm/dt/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker) -->
 
-`is-string-checker` is a tiny, zero-dependency library that allows you to determine whether a value is a string. It's fast, reliable, and works in all JavaScript environments.
+> A lightweight utility to check if a given value is a string.
+
+<!-- `is-string-checker` is a tiny, zero-dependency library that allows you to determine whether a value is a string. It's fast, reliable, and works in all JavaScript environments. -->
 
 ---
 
@@ -18,8 +15,6 @@
 - **Reliable type-checking**: Handles edge cases such as `Object.create(null)` or string objects (`new String()`).
 - **Cross-platform**: Works in Node.js, browsers, and other JavaScript environments.
 - **ESM and CJS support**: Fully compatible with modern module systems.
-
----
 
 ---
 
