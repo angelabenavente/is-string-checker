@@ -1,4 +1,4 @@
-# is-string-checker [![NPM version](https://img.shields.io/npm/v/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](<[LICENSE](https://github.com/angelabenavente/is-string-checker/LICENSE)>)
+# is-string-checker [![NPM version](https://www.npmjs.com/package/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](<[LICENSE](https://github.com/angelabenavente/is-string-checker/LICENSE)>)
 
 <!-- [![NPM monthly downloads](https://img.shields.io/npm/dm/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker)
 [![NPM total downloads](https://img.shields.io/npm/dt/is-string-checker.svg?style=flat)](https://www.npmjs.com/package/is-string-checker) -->
@@ -127,11 +127,11 @@ PASS  ./isString.test.js
 
 Feel free to add more test cases in the `test` file.
 
----
+<!-- ---
 
 ## 🔄 Changelog
 
-See [CHANGELOG.md](https://github.com/angelabenavente/is-string-checker/CHANGELOG.md) for a detailed history of changes.
+See [CHANGELOG.md](https://github.com/angelabenavente/is-string-checker/CHANGELOG.md) for a detailed history of changes. -->
 
 ---
 
@@ -143,17 +143,19 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 2.  Create a new branch for your feature or bugfix.
 3.  Submit a pull request with a clear description of the changes.
 
-See [CONTRIBUTING.md](https://github.com/angelabenavente/is-string-checker/CONTRIBUTING.md) for more details.
+<!-- See [CONTRIBUTING.md](https://github.com/angelabenavente/is-string-checker/CONTRIBUTING.md) for more details. -->
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/angelabenavente/is-string-checker/LICENSE). Created with ❤️ by [Ángela Benavente](https://github.com/angelabenavente).
+This project is licensed under the MIT License. Created with ❤️ by [Ángela Benavente](https://github.com/angelabenavente).
+<!-- 
+This project is licensed under the [MIT License](https://github.com/angelabenavente/is-string-checker/LICENSE). Created with ❤️ by [Ángela Benavente](https://github.com/angelabenavente). -->
 
----
+<!-- ---
 
 ## 🌍 Links
 
-- **GitHub Repository:** [https://github.com/angelabenavente/is-string-checker](https://github.com/angelabenavente/is-string-checker)
+- **GitHub Repository:** [https://github.com/angelabenavente/is-string-checker](https://github.com/angelabenavente/is-string-checker) -->
 <!-- - **NPM Package:** [https://www.npmjs.com/package/is-string-checker](https://www.npmjs.com/package/is-string-checker) -->
