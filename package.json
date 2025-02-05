@@ -1,7 +1,7 @@
 {
   "name": "is-string-checker",
   "description": "A utility to check if a value is a string.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "license": "MIT",
   "homepage": "https://github.com/angelabenavente/is-string-checker",
   "author": "Ángela Benavente (https://github.com/angelabenavente)",
